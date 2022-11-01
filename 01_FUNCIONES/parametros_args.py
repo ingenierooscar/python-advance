@@ -8,7 +8,7 @@ def calcular_perimetro(lado_1, lado_2, lado_3, lado_4):
 perimetro = calcular_perimetro(1,2,3,4)
 print(perimetro)
 
-#hacer lo mismo pero con un for y con *args
+#hacer lo mismo pero con un for y con *args, args es una tupla
 
 def calcular_parametro_args(*args):
     perimetro = 0
