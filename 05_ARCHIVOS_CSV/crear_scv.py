@@ -9,7 +9,8 @@ ruta_absoluta_os = os.path.join(os.getcwd(), "csv_vacio.csv")
 print(ruta_absoluta)
 print(ruta_absoluta_os)
 
-"""archivo_abierto = open(ruta_relativa, "w")
+"""
+archivo_abierto = open(ruta_relativa, "w")
 writer = csv.writer(archivo_abierto, delimiter=",")
 archivo_abierto.close()
 """
