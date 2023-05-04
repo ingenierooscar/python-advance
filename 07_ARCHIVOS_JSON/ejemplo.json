@@ -1,0 +1,20 @@
+{
+    "llave_string": "snake_case",
+    "otro_string": "otro",
+    "entero": 1,
+    "decimal": 1.2,
+    "boolenan01": true,
+    "booleano2": false,
+    "array": [1,2,3],
+    "objeto": {
+        "nombre": "ana"
+    },
+    "personas": [
+        {
+            "nombre": "ana"
+        },
+        {
+            "nombre": "paco"
+        }
+    ]
+}
