@@ -28,3 +28,8 @@ def ordena(elemento):
 
 priroos.sort(key=ordena)
 print(priroos)
+
+#haciendolo mas elegante con lambda expressions
+#las funciones lambda se usan para ahorrar metodos, por ello se requiere de unos parametros de entrada y un retorno
+priroos.sort(key=lambda el:el[1], reverse=True)
+print(priroos)
