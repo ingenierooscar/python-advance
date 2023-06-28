@@ -16,3 +16,4 @@ if not pila:
     print("pila vacia")
 
 #este son los lifo (last in, first out)
+#solo se usa append y pop (agregar y eliminar)
