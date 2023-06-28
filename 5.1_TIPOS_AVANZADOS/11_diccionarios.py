@@ -36,7 +36,7 @@ for valor in punto.items():
     print(valor)
 
 #desempaquetando
-for llave, valor  in punto.items():
+for llave, valor in punto.items():
     print(llave ,valor)
 
 #un puto ejemplo real
